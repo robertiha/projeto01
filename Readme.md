@@ -6,4 +6,5 @@
 
 ### Github:
 - É a parte online do git, onde podemos subir os arquivos e permite trabalhos colaborativos
-- Criar portifólios 
+- É possivel cirar e compartilhar projetos
+- Criar um portifólio
